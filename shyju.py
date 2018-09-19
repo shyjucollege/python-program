@@ -5,4 +5,5 @@ if num >= 0:
    else:
        print("Positive number")
 else:
+   
    print("Negative number")
