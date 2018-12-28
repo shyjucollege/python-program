@@ -1,7 +1,5 @@
 
-year = 2000
-
-
+year = 2010
 # year = int(input("Enter a year: "))
 
 if (year % 4) == 0:
